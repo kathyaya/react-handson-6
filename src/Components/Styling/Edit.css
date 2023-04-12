@@ -1,0 +1,25 @@
+.conatainer{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.flex-items {
+    width: 40%;
+    height: 72px;
+}
+
+.buttonContainer{
+    text-align: center;
+}
+
+button {
+    position: relative;
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
